@@ -1,0 +1,20 @@
+{
+  "_comment": "Firebase kalitlaringizni tashlang — boshqasiga tegmang. apiKey va databaseURL bo'lsa, o'yin avtomatik Firebase'ga ulanadi; aks holda shu brauzerdagi tablar orasida mahalliy (BroadcastChannel) rejimda ishlaydi.",
+  "backend": "auto",
+  "firebase": {
+    "apiKey": "AIzaSyANn1Zar4_XJxDpJUiu48drFC1H2gLMnC8",
+    "authDomain": "horizon-2f4e3.firebaseapp.com",
+    "databaseURL": "https://horizon-2f4e3-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "projectId": "horizon-2f4e3",
+    "appId": "1:1071784056584:web:7bea88a73dc65cc11a3ebd"
+  },
+  "useAuth": false,
+  "sdkVersion": "10.12.2",
+  "tickHz": 10,
+  "maxChat": 60,
+  "social": {
+    "telegram": "",
+    "instagram": "",
+    "discord": ""
+  }
+}
